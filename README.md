@@ -33,7 +33,7 @@ Aplicação com interface web e execução via terminal capaz de ler configuraç
 
 **Projeto acadêmico em equipe. Minha contribuição:** implementei o suporte a alfabetos de entrada personalizados, múltiplos estados iniciais, transições lambda e autômatos de pilha. Também desenvolvi casos de teste para AFND e AP e adicionei controle de tempo para evitar loops infinitos durante as simulações.
 
-**Links:** [Repositório original](https://github.com/Dudaada/TP3_FTC_Final) · [Minhas contribuições](https://github.com/Dudaada/TP3_FTC_Final/commits/main/?author=EduardaSuar)
+**Links:** [Repositório](https://github.com/Dudaada/TP3_FTC_Final) 
 
 ### Análise de Redes de Transporte com Grafos
 
@@ -43,7 +43,7 @@ Aplicação de console para modelar uma rede de transporte ponderada, consultar 
 
 **Projeto acadêmico em equipe. Minha contribuição:** implementei a estrutura inicial do grafo com lista de adjacência e arestas ponderadas, além da busca recursiva com backtracking para encontrar passeios turísticos. Também integrei as funcionalidades ao menu principal e participei da correção das rotinas de menor caminho e conectividade.
 
-**Links:** [Repositório original](https://github.com/pamelalld/tp1_grafos) · [Minhas contribuições](https://github.com/pamelalld/tp1_grafos/commits/main/?author=EduardaSuar)
+**Links:** [Repositório](https://github.com/pamelalld/tp1_grafos)
 
 ### Sistema de Criptoanálise e Busca em Textos
 
@@ -53,7 +53,7 @@ Aplicação de console para criptografar, analisar e decifrar textos. O sistema 
 
 **Projeto acadêmico em equipe. Minha contribuição:** implementei o módulo de análise de frequência, incluindo contagem, cálculo percentual e geração automática de uma chave inicial baseada na frequência das letras em português. Também desenvolvi a edição manual da chave, o processamento conjunto de 12 arquivos, a aplicação da cifra em memória e a integração dessas funcionalidades ao menu principal e ao fluxo de busca no texto parcialmente decifrado.
 
-**Links:** [Repositório original](https://github.com/Beatriz0205/TP3-PAA) · [Minhas contribuições](https://github.com/Beatriz0205/TP3-PAA/commits/main/?author=EduardaSuar)
+**Links:** [Repositório](https://github.com/Beatriz0205/TP3-PAA) 
 
 ### Jornada Espacial — Rotas com Backtracking
 
@@ -63,7 +63,7 @@ Aplicação de console que utiliza backtracking para encontrar uma rota em um ma
 
 **Projeto acadêmico em equipe. Minha contribuição:** reestruturei a interface de terminal e o fluxo de execução do programa, criando opções para carregar mapas, iniciar a busca e gerar novos casos. Implementei diferentes níveis de detalhamento da saída e um modo de análise que contabiliza o número de chamadas recursivas e a profundidade máxima atingida. Também integrei a exibição condicional dos eventos e corrigi validações do gerador de mapas.
 
-**Links:** [Repositório original](https://github.com/Dudaada/TP1_Projeto_e_Analise_de_Algoritmos) · [Minha principal implementação](https://github.com/Dudaada/TP1_Projeto_e_Analise_de_Algoritmos/commit/e9416c8c1672770bf276a105f6edaae64bc6a89e)
+**Links:** [Repositório](https://github.com/Dudaada/TP1_Projeto_e_Analise_de_Algoritmos)
 
 ## Contato
 
