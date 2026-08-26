@@ -26,6 +26,5 @@ Busco uma oportunidade remota de estágio ou atuação como desenvolvedora júni
 ## Contato
 
 * [LinkedIn](https://www.linkedin.com/in/eduarda-suar-4a8659401)
-* [E-mail](malito:eduardasuar4@gmail.com)
-* Florestal, Minas Gerais
+* [E-mail](mailto:eduardasuar4@gmail.com)* Florestal, Minas Gerais
 * Disponível para oportunidades remotas
