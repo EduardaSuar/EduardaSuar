@@ -1,6 +1,6 @@
 # Eduarda Anaely Suar Borges
 
-### Ciência da Computação | Desenvolvimento Mobile | IA e Visão Computacional
+### Ciência da Computação | Desenvolvimento de Software | IA e Visão Computacional
 
 Sou estudante do 6º período de Ciência da Computação na Universidade Federal de Viçosa (UFV), Campus Florestal. Tenho experiência acadêmica em desenvolvimento de software, aplicações mobile e projetos de Inteligência Artificial, incluindo classificação de imagens, detecção de objetos e treinamento e avaliação de modelos.
 
