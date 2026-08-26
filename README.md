@@ -8,7 +8,7 @@ Busco uma oportunidade remota de estágio ou atuação como desenvolvedora júni
 
 ## Áreas de interesse
 
-* Desenvolvimento mobile
+* Desenvolvimento de Software
 * Inteligência Artificial e Machine Learning
 * Visão Computacional
 * Treinamento e avaliação de modelos
