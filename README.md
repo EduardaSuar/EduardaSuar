@@ -25,6 +25,12 @@ Busco uma oportunidade remota de estágio ou atuação como desenvolvedora júni
 
 ## Projetos em destaque
 
+## Projeto em destaque
+
+### [Cidadão On](https://github.com/EduardaSuar/cidadao_on)
+
+MVP de uma aplicação mobile gamificada para aprendizagem sobre cidadania fiscal, desenvolvido com React Native, Expo e TypeScript. A versão publicada inclui autenticação simulada, mapa de fases, conteúdos educativos, quiz e progressão por XP. O projeto ainda não está finalizado e será atualizado conforme o desenvolvimento avançar.
+
 ### Simulador de Autômatos Formais
 
 **Tecnologias:** Python, Flask, HTML, CSS e JavaScript
