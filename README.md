@@ -23,8 +23,6 @@ Busco uma oportunidade remota de estágio ou atuação como desenvolvedora júni
 * **Desenvolvimento assistido por IA:** Google Antigravity, ChatGPT, Gemini, Codex e GitHub Copilot
 * **Idioma:** Inglês intermediário
 
-## Projetos em destaque
-
 ## Projeto em destaque
 
 ### [Cidadão On](https://github.com/EduardaSuar/cidadao_on)
